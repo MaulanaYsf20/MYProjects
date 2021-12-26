@@ -1,0 +1,51 @@
+/* navbar */
+.navbar {
+  background-color: #000957;
+}
+
+/* jumbotron */
+.jumbotron {
+  padding-top: 8rem;
+  background-color: #daddfc;
+}
+
+/* About Me */
+
+.col-md-4 p {
+  color: white;
+}
+.col h2 {
+  color: #ff7800;
+}
+#aboutme .container-fluid {
+  margin-top: -2rem;
+  background-color: #1a374d;
+}
+
+/* my projects */
+
+#projects {
+  background-color: #daddfc;
+  margin-top: -1rem;
+}
+
+/* contact me */
+
+#contact {
+  background-color: #1a374d;
+  margin-top: -1rem;
+}
+
+/*footer*/
+
+footer {
+  background-color: #000957;
+}
+
+footer p {
+  color: #ff7800;
+}
+
+footer p a {
+  color: white;
+}
